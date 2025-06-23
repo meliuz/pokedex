@@ -1,0 +1,17 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: meliuz/pokedex
+  description: '# Pokedex
+
+
+    [![Travis](https://img.shields.io/travis/alik0211/pokedex/master.svg?style=flat-square)](https://travis-ci.com/alik0211/pokedex)
+
+    [![Depende...'
+  name: pokedex
+spec:
+  lifecycle: production
+  type: service
