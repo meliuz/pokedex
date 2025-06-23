@@ -1,0 +1,6 @@
+---
+site_name: pokedex
+nav:
+  - Home: README.md
+plugins:
+  - techdocs-core
