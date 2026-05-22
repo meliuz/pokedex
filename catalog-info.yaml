@@ -5,12 +5,12 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: meliuz/pokedex
-  description: '# Pokedex
+  description: |-
+    # Pokedex
 
-
-    [![Travis](https://img.shields.io/travis/alik0211/pokedex/master.svg?style=flat-square)](https://travis-ci.com/alik0211/pokedex)
-
-    [![Depende...'
+    [![Travis](https://img.shields.io/travis/alik0211/pokedex/master.svg?style=flat-
+    square)](https://travis-ci.com/alik0211/pokedex)
+    [![Depende...
   name: pokedex
 spec:
   lifecycle: production
